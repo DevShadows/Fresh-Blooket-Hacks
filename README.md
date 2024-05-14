@@ -14,6 +14,6 @@ Check LICENSE for information regarding liability and warranty
 If you plan on using the games tab of the client only use the URL ending in aplyifyapp.com otherwise it won't work. (Doesn't apply if you don't have website restrictions)
 
 # Credit
-05konz - Blooket Hacks
+05konz - Template for Blooket Hacks
 
 penguinify - 🚗 Client
