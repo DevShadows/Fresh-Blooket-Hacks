@@ -1,5 +1,6 @@
 # Blooket-Hack
 Some sweet blooket hacks that likely work. Known non-working cheats: Use Any Blook, 
+
 Please create an issue if you find a cheat that doesn't work. I am actively working on fixing these, and notice on other non-working cheats would be very helpful.
 
 # Instructions
