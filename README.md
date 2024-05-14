@@ -1,5 +1,6 @@
 # Blooket-Hack
-Some sweet blooket hacks that likely work
+Some sweet blooket hacks that likely work. Known non-working cheats: Use Any Blook, 
+Please create an issue if you find a cheat that doesn't work. I am actively working on fixing these, and notice on other non-working cheats would be very helpful.
 
 # Instructions
 To use the Blooket hacks: Copy gui.min.js and paste it into a bookmark. Run the bookmark while on Blooket to open the hacks
