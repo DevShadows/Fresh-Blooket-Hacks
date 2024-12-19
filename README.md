@@ -1,5 +1,5 @@
 # Blooket-Hack
-Some sweet blooket hacks that likely work. Known non-working cheats: Use Any Blook, All Monster Brawl hacks, Set Blooks(Blook Rush), 
+Some sweet blooket hacks that likely work. Known non-working cheats: Recently updated, so none at the moment
 
 Please create an issue if you find a cheat that doesn't work. I am actively working on fixing these, and notice on other non-working cheats would be very helpful.
 
