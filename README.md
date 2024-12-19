@@ -4,9 +4,10 @@ Some sweet blooket hacks that likely work. Known non-working cheats: Recently up
 Please create an issue if you find a cheat that doesn't work. I am actively working on fixing these, and notice on other non-working cheats would be very helpful.
 
 # Instructions
-To use the Blooket hacks: Copy gui.min.js and paste it into a bookmark. Run the bookmark while on Blooket to open the hacks
-
-Same Method for 🚗 Client: Copy the file and paste it into a book mark. Run it on any website to open. 
+Blooket Hacks:
+Bookmarklet=>Copy gui.min.js and paste it into a bookmark. Run the bookmark while on Blooket to open the hacks
+Console=>Copy gui.js and paste it directly into the console. You can open it by pressing CTRL+SHIFT+J
+🚗 Client: Copy the file and paste it into a book mark. Run it on any website to open. 
 
 Check LICENSE for information regarding liability and warranty
 
